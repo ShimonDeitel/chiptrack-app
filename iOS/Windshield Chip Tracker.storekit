@@ -1,0 +1,27 @@
+{
+  "identifier" : "Windshield Chip Tracker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.chiptrack.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Multi-chip tracking with size-growth comparison over time",
+          "displayName" : "Windshield Chip Tracker Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.chiptrack.pro",
+      "referenceName" : "Windshield Chip Tracker Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
